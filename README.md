@@ -22,7 +22,7 @@ i used the bootstrap libarary as you told me so i guess that you need to downloa
 bugs that i still need to fix
 ---
 
-for now as you saw the widget works fine with bootstrap 3 atlist on my machine but i couldn't make it work yet with bootstrap 4, tell me if you think its imporatant to use bootstrap 4.  it seems that some lines of code there interefer with the widget though i don't know what to do about it yet. 
+for now as you saw the widget works fine with bootstrap 3 atlist on my machine but i couldn't make it work yet with bootstrap 4, tell me if you think its imporatant to use bootstrap 4.  it seems that some lines of code there interfere with the widget, though i don't know what to do about it yet. 
 
 future ideas
 ---
